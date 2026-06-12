@@ -11,9 +11,11 @@ export default function Home() {
   return (
     <main className="max-w-5xl mx-auto px-4 py-8">
       <header className="mb-10 text-center">
-        <div className="w-20 h-20 mx-auto mb-4 rounded-full bg-gradient-to-br from-violet-500 to-fuchsia-500 flex items-center justify-center text-2xl font-bold text-white">
-          JMJ
-        </div>
+        <img
+          src="/artes/logo.png"
+          alt="JMJ Design"
+          className="w-24 h-24 mx-auto mb-4 rounded-full object-cover"
+        />
         <h1 className="text-3xl font-bold mb-2">JMJ Design</h1>
         <p className="text-zinc-400 max-w-md mx-auto">
           Design gráfico com foco em identidade visual, branding, UI/UX e ilustração.
