@@ -23,7 +23,7 @@ const designs = [
     title: "Cardápio — Digital 1",
     description: "Design de cardápio digital com layout clean e tipografia elegante.",
     image: "/artes/cardapios/cardapio_1.png",
-    link: "#",
+    link: "https://brasper.vercel.app/",
     tags: ["Cardápio", "Digital", "Tipografia"],
   },
   {
@@ -31,7 +31,7 @@ const designs = [
     title: "Cardápio — Digital 2",
     description: "Variação de layout para cardápio digital com foco em usabilidade.",
     image: "/artes/cardapios/cardapio_2.png",
-    link: "#",
+    link: "https://brasper.vercel.app/",
     tags: ["Cardápio", "Digital", "UX"],
   },
 
@@ -41,7 +41,7 @@ const designs = [
     title: "Logo — PHP Manaus 8",
     description: "Logo para o evento PHP Manaus 8ª edição com elefante como mascote.",
     image: "/artes/logos/php_manaus8_eleph.png",
-    link: "#",
+    link: "https://phpcaboclo.com.br/",
     tags: ["Logo", "Evento", "PHP"],
   },
   {
@@ -49,7 +49,7 @@ const designs = [
     title: "Logo — PHP Manaus 8",
     description: "Variação do logo para o evento PHP Manaus com tipografia destacada.",
     image: "/artes/logos/php_manaus8.png",
-    link: "#",
+    link: "https://phpcaboclo.com.br/",
     tags: ["Logo", "Evento", "PHP"],
   },
   {
@@ -57,7 +57,7 @@ const designs = [
     title: "Logo — Java AM",
     description: "Logo para comunidade Java Amazonas com símbolo regional.",
     image: "/artes/logos/java_AM.png",
-    link: "#",
+    link: "https://javaamazonas.com.br/",
     tags: ["Logo", "Comunidade", "Java"],
   },
   {
@@ -65,7 +65,7 @@ const designs = [
     title: "Logo — Java AM (Simplificado)",
     description: "Variação simplificada do logo Java Amazonas para aplicações menores.",
     image: "/artes/logos/java_AM_no_sides.png",
-    link: "#",
+    link: "https://javaamazonas.com.br/",
     tags: ["Logo", "Comunidade", "Minimalista"],
   },
 
@@ -75,7 +75,7 @@ const designs = [
     title: "Cadernetas Personalizadas",
     description: "Design de cadernetas personalizadas com identidade visual exclusiva.",
     image: "/artes/publicacoes/cadernetas_personalizadas.png",
-    link: "#",
+    link: "https://brasper.vercel.app/",
     tags: ["Publicação", "Papelaria", "Branding"],
   },
   {
@@ -83,7 +83,7 @@ const designs = [
     title: "Caneca Personalizada",
     description: "Design estampado para caneca personalizada com ilustração autoral.",
     image: "/artes/publicacoes/caneca_personalizada.png",
-    link: "#",
+    link: "https://brasper.vercel.app/",
     tags: ["Publicação", "Produto", "Ilustração"],
   },
 ]
