@@ -17,24 +17,6 @@ const designs = [
     tags: ["Aplicativo", "Ícone", "Branding"],
   },
 
-  // Cardápios
-  {
-    id: 3,
-    title: "Cardápio — Digital 1",
-    description: "Design de cardápio digital com layout clean e tipografia elegante.",
-    image: "/artes/cardapios/cardapio_1.png",
-    link: "https://brasper.vercel.app/",
-    tags: ["Cardápio", "Digital", "Tipografia"],
-  },
-  {
-    id: 4,
-    title: "Cardápio — Digital 2",
-    description: "Variação de layout para cardápio digital com foco em usabilidade.",
-    image: "/artes/cardapios/cardapio_2.png",
-    link: "https://brasper.vercel.app/",
-    tags: ["Cardápio", "Digital", "UX"],
-  },
-
   // Logos
   {
     id: 5,
@@ -67,6 +49,24 @@ const designs = [
     image: "/artes/logos/java_AM_no_sides.png",
     link: "https://javaamazonas.com.br/",
     tags: ["Logo", "Comunidade", "Minimalista"],
+  },
+
+  // Cardápios
+  {
+    id: 3,
+    title: "Cardápio — Digital 1",
+    description: "Design de cardápio digital com layout clean e tipografia elegante.",
+    image: "/artes/cardapios/cardapio_1.png",
+    link: "https://brasper.vercel.app/",
+    tags: ["Cardápio", "Digital", "Tipografia"],
+  },
+  {
+    id: 4,
+    title: "Cardápio — Digital 2",
+    description: "Variação de layout para cardápio digital com foco em usabilidade.",
+    image: "/artes/cardapios/cardapio_2.png",
+    link: "https://brasper.vercel.app/",
+    tags: ["Cardápio", "Digital", "UX"],
   },
 
   // Publicações
